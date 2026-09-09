@@ -279,6 +279,9 @@ Assistant:
 
 You can also employ [vLLM](https://github.com/vllm-project/vllm) for high-throughput inference.
 
+> [!NOTE]
+> **Security Notice:** Setting `trust_remote_code=True` executes code from the untrusted/remote model repository. Always inspect and verify model repository code before enabling this flag in production environments.
+
 **Text Completion**
 
 ```python
