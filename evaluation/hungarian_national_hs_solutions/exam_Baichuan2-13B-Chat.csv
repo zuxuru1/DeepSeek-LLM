@@ -190,7 +190,7 @@ So, the equation of the line that passes through the point $P(3 ; 2)$ and is par
 
 (2/3)x - y = 0",0.0
 "Answer the following question:
-Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers. 
+Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers.
 $$f(x)=\sqrt{x}-2 \quad g(x)=(x-2)^{2}-3 \quad h(x)=2 \sin x$$
 
 For which function is the following statement true: The minimum value of the function is (-2).","To find the minimum value of a function, we need to find the critical points of the function and check if they are minima or maxima.
@@ -235,12 +235,12 @@ Since the function is positive at the critical point, it is a maximum.
 
 In conclusion, the minimum value of $g(x)$ is $-3$.",0.0
 "Answer the following question:
-Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers. 
+Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers.
 $$f(x)=\sqrt{x}-2 \quad g(x)=(x-2)^{2}-3 \quad h(x)=2 \sin x$$
 
 For which function is the following statement true: The function has at least two zeros.","For the function $f(x) = \sqrt{x} - 2$, the statement is true. The function has at least two zeros because it is continuous from the non-negative reals to the non-negative reals, and it takes the value $0$ at $x = 4$ and $x = 16$. Therefore, it must have at least two more zeros between these values.",0.0
 "Answer the following question:
-The numbers $1,2,3,4,5$ and 6 have been written on a sheet of paper. Any two of these numbers are connected with a line (edge) if and only if one number is a divisor of the other (none of the numbers are connected to themselves). This will give a 6-point graph. 
+The numbers $1,2,3,4,5$ and 6 have been written on a sheet of paper. Any two of these numbers are connected with a line (edge) if and only if one number is a divisor of the other (none of the numbers are connected to themselves). This will give a 6-point graph.
 
 Draw this graph.","I'm sorry, but the nature of this question is such that it is difficult or impossible to provide a visual representation. However, I can describe the process of creating such a graph.
 

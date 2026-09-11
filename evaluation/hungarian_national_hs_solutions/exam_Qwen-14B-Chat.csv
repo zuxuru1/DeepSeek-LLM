@@ -66,7 +66,7 @@ Given is line $e: 5 x-y=7$. Give one normal vector of line $e$.","A normal vecto
 "Answer the following question:
 Given is line $e: 5 x-y=7$. Give the equation of the line that passes through the point $P(3 ; 2)$ and is parallel to line $e$.","The slope of line $e$ is $5$, so the slope of any line parallel to line $e$ must also be $5$. The equation of the line passing through point $P(3 ; 2)$ with slope $5$ is $y-2=5(x-3)$, which simplifies to $y=5x-13$.",2.0
 "Answer the following question:
-Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers. 
+Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers.
 $$f(x)=\sqrt{x}-2 \quad g(x)=(x-2)^{2}-3 \quad h(x)=2 \sin x$$
 
 For which function is the following statement true: The minimum value of the function is (-2).","Since $f(x)=\sqrt{x}-2$ is defined only for non-negative $x$, we need not consider it in evaluating the statement.
@@ -74,7 +74,7 @@ Since $g(x)=(x-2)^2-3$ is a square of a linear function, its minimum value is $-
 Since $h(x)=2\sin x$ is periodic with period $2\pi$, its minimum value is $-2$, which occurs twice in every period: once in the interval $[0,\pi]$ and once in the interval $[\pi,2\pi]$.
 Therefore, the statement is true for function $h(x)=2\sin x$.",1.0
 "Answer the following question:
-Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers. 
+Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers.
 $$f(x)=\sqrt{x}-2 \quad g(x)=(x-2)^{2}-3 \quad h(x)=2 \sin x$$
 
 For which function is the following statement true: The function has at least two zeros.","For $f$ to have at least two zeros, it must cross the $x$-axis at least twice. Since $f$ is a square root function, it is always increasing, so it can only cross the $x$-axis at most once. So, $f$ does not have at least two zeros.
@@ -85,7 +85,7 @@ For $h$ to have at least two zeros, it must cross the $x$-axis at least twice. S
 
 Therefore, the function that has at least two zeros is $h$.",1.0
 "Answer the following question:
-The numbers $1,2,3,4,5$ and 6 have been written on a sheet of paper. Any two of these numbers are connected with a line (edge) if and only if one number is a divisor of the other (none of the numbers are connected to themselves). This will give a 6-point graph. 
+The numbers $1,2,3,4,5$ and 6 have been written on a sheet of paper. Any two of these numbers are connected with a line (edge) if and only if one number is a divisor of the other (none of the numbers are connected to themselves). This will give a 6-point graph.
 
 Draw this graph.","
 
@@ -103,7 +103,7 @@ Determine the truth value of the following two statements (true or false). Expla
 
 I. There exists a positive integer that has exactly 4 positive divisors.
 
-II. If the integer $n$ is not a divisor of the integer $m$ then $n$ and $m$ are relative primes (co-primes).","I. True. The smallest positive integer with exactly 4 positive divisors is 9, which has divisors 1, 3, 9, and 27. 
+II. If the integer $n$ is not a divisor of the integer $m$ then $n$ and $m$ are relative primes (co-primes).","I. True. The smallest positive integer with exactly 4 positive divisors is 9, which has divisors 1, 3, 9, and 27.
 
 II. False. The statement is not true. For example, 6 and 9 are not relatively prime, even though 9 is not a divisor of 6. In fact, any integer that is a multiple of 3 and not a multiple of 2 will not be relatively prime to 6.",3.0
 "Answer the following question:
@@ -134,15 +134,15 @@ Trial 4: $2.3 m/s^2$
 
 Calculate the standard deviation of the four results Emma and Norbi obtained.","To calculate the standard deviation of the four results obtained by Emma and Norbi, we need to follow these steps:
 
-1. Calculate the mean of the four results: 
+1. Calculate the mean of the four results:
 
 Mean = (1.9 + 2.0 + 1.8 + 2.3) / 4 = 2.0 m/s^2
 
-2. Calculate the variance of the four results: 
+2. Calculate the variance of the four results:
 
 Variance = [(1.9 - 2.0)^2 + (2.0 - 2.0)^2 + (1.8 - 2.0)^2 + (2.3 - 2.0)^2] / 4 = 0.025 m^2/s^4
 
-3. Calculate the standard deviation of the four results: 
+3. Calculate the standard deviation of the four results:
 
 Standard deviation = sqrt(Variance) = sqrt(0.025) = 0.158 m/s^2
 

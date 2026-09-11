@@ -277,7 +277,7 @@ $y = 5x - 13$
 
 This is the equation of the line that passes through point $P(3; 2)$ and is parallel to line $e: 5x - y = 7$.",2
 "Answer the following question:
-Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers. 
+Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers.
 $$f(x)=\sqrt{x}-2 \quad g(x)=(x-2)^{2}-3 \quad h(x)=2 \sin x$$
 
 For which function is the following statement true: The minimum value of the function is (-2).","The statement ""The minimum value of the function is (-2)"" is true for the function $g(x)$.
@@ -292,7 +292,7 @@ To see why this is the case, let's analyze the functions $f(x)$, $g(x)$, and $h(
 
 In conclusion, the statement is true for $g(x)$, as it has a minimum value of $-2$ that is achieved at the vertex of the parabola.",0
 "Answer the following question:
-Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers. 
+Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers.
 $$f(x)=\sqrt{x}-2 \quad g(x)=(x-2)^{2}-3 \quad h(x)=2 \sin x$$
 
 For which function is the following statement true: The function has at least two zeros.","To determine which function has at least two zeros, we need to analyze the given functions and their properties.
@@ -305,7 +305,7 @@ For function $h(x) = 2\sin(x)$, we are looking for values of $x$ for which $h(x)
 
 Based on the above analysis, the function that has at least two zeros is function $g(x) = (x-2)^2 - 3$.",1
 "Answer the following question:
-The numbers $1,2,3,4,5$ and 6 have been written on a sheet of paper. Any two of these numbers are connected with a line (edge) if and only if one number is a divisor of the other (none of the numbers are connected to themselves). This will give a 6-point graph. 
+The numbers $1,2,3,4,5$ and 6 have been written on a sheet of paper. Any two of these numbers are connected with a line (edge) if and only if one number is a divisor of the other (none of the numbers are connected to themselves). This will give a 6-point graph.
 
 Draw this graph.","To draw the graph, we need to connect each number to the numbers it divides or is divided by. Since each number is unique and none of them are connected to themselves, we can create the following connections:
 
@@ -661,7 +661,7 @@ This is always true because it is the definition of the area of a triangle in te
 "Answer the following question:
 Solve the following equations in the set of real numbers.
 
-$$2 \cdot \sqrt{3 - x} = x + 5$$","To solve the equation $2 \cdot \sqrt{3 - x} = x + 5$, we need to find the values of $x$ that make this equation true. 
+$$2 \cdot \sqrt{3 - x} = x + 5$$","To solve the equation $2 \cdot \sqrt{3 - x} = x + 5$, we need to find the values of $x$ that make this equation true.
 
 First, let's square both sides of the equation to eliminate the square root. This will introduce an extra term on the left side, which we will need to account for.
 
@@ -721,7 +721,7 @@ $$x = -1$$",5
 "Answer the following question:
 Solve the following equations in the set of real numbers.
 
-$$\frac{x}{x+1} + \frac{x^2}{x^2 - 1} = 2$$","To solve the equation, we first need to find a common denominator to combine the two fractions on the left side of the equation. The common denominator is $(x^2 - 1)(x + 1)$. 
+$$\frac{x}{x+1} + \frac{x^2}{x^2 - 1} = 2$$","To solve the equation, we first need to find a common denominator to combine the two fractions on the left side of the equation. The common denominator is $(x^2 - 1)(x + 1)$.
 
 Let's find a polynomial that can be divided by both $(x^2 - 1)$ and $(x + 1)$. The polynomial $x^2 - 1$ can be factored as $(x - 1)(x + 1)$, and the polynomial $x + 1$ is already factored. So, we can use the polynomial $x(x - 1)(x + 1)$ as the common denominator.
 

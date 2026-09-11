@@ -240,7 +240,7 @@ y = 5x - 13
 
 So, the equation of the line that passes through the point P(3, 2) and is parallel to line e is y = 5x - 13.",2
 "User: Answer the following question:
-Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers. 
+Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers.
 $$f(x)=\sqrt{x}-2 \quad g(x)=(x-2)^{2}-3 \quad h(x)=2 \sin x$$
 
 For which function is the following statement true: The minimum value of the function is (-2).
@@ -257,7 +257,7 @@ To see this, let's analyze each function:
 
 So, the statement ""The minimum value of the function is (-2)"" is true for $f(x)$.",1
 "User: Answer the following question:
-Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers. 
+Function $f$ below is defined over the set of non-negative real numbers. Functions $g$ and $h$ are defined over the set of real numbers.
 $$f(x)=\sqrt{x}-2 \quad g(x)=(x-2)^{2}-3 \quad h(x)=2 \sin x$$
 
 For which function is the following statement true: The function has at least two zeros.
@@ -310,7 +310,7 @@ So, h(x) has infinitely many zeros at x = nπ, where n is an integer.
 
 Therefore, the statement ""The function has at least two zeros"" is true for function g(x).",1
 "User: Answer the following question:
-The numbers $1,2,3,4,5$ and 6 have been written on a sheet of paper. Any two of these numbers are connected with a line (edge) if and only if one number is a divisor of the other (none of the numbers are connected to themselves). This will give a 6-point graph. 
+The numbers $1,2,3,4,5$ and 6 have been written on a sheet of paper. Any two of these numbers are connected with a line (edge) if and only if one number is a divisor of the other (none of the numbers are connected to themselves). This will give a 6-point graph.
 
 Draw this graph.
 
